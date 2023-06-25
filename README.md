@@ -25,9 +25,9 @@ Instruções sobre como usar o seu projeto:
 ## Autores
 Mentor : Robson Araújo Lima
 
-Lilian Carvalho
-Henrique dos Santos
-Glenelly Karla
-Iago Souza 
-Guilherme Patrinhani
+Lilian Carvalho <br>
+Henrique dos Santos <br>
+Glenelly Karla <br>
+Iago Souza  <br>
+Guilherme Patrinhani <br>
 Gabriel Mota
