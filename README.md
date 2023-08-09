@@ -21,6 +21,8 @@ Instruções sobre como usar o seu projeto:
 
 1. Passo 1: O Projeto tem um layout simples, assim que abrir no navegador, clique no perfil dos integrantes de sua escolha.
 
+## Imagens do Projeto
+![Imagem ra github](https://github.com/Henriquesantos12/TCC-Escola-da-Nuvem/assets/114838533/99073ae3-d728-45c3-b2f8-b8c3e77f772c)
 
 ## Autores
 Mentor : Robson Araújo Lima
