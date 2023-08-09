@@ -23,7 +23,7 @@ Instruções sobre como usar o seu projeto:
 
 ## Imagens do Projeto
 > ![Imagem ra github](https://user-images.githubusercontent.com/114838533/259519898-90d54267-a035-4dc2-a864-ac710ab26ceb.PNG)
-![imagens git](https://github.com/Henriquesantos12/TCC-Escola-da-Nuvem/assets/114838533/aa0daf52-fcb1-4752-8df4-8f90b50fb682)
+> ![imagens git](https://user-images.githubusercontent.com/114838533/259519964-958f04b3-cc38-429c-ada6-e99f8c92d1ac.PNG)
 
 
 ## Autores
